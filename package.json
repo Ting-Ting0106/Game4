@@ -1,0 +1,19 @@
+{
+    "name": "gomoku-lord",
+    "version": "13.3.0",
+    "description": "領主五子棋 - PVP 短碼連線版",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "start": "python -m http.server 8000",
+        "dev": "open http://localhost:8000"
+    },
+    "keywords": [
+        "gomoku",
+        "game",
+        "peerjs",
+        "p2p"
+    ],
+    "author": "",
+    "license": "MIT"
+}
